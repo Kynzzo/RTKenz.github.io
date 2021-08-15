@@ -15,4 +15,4 @@ Email:kenzieleerobertson@gmail.com
 
 games/apps | Downloads | status
 -------   |-----      |--------
-**IPA** unc0ver|6.1.0 version working [Download](https://ufile.io/7m0n25p8)|✅ verified [pandahelper](pandahelperpro.com/appstore/app/1001653)
+**IPA** unc0ver|6.1.0 version working [Download](https://ufile.io/7m0n25p8)|✅ verified [panderhelper](blank.com)
