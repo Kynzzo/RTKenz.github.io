@@ -11,9 +11,8 @@
 
 **I will update this links every friday.** if not working please make sure to contact me, all you have to do is give the name and version!!!
 
------  -----
 Email | kenzieleerobertson@gmail.com
--------|-------
+-----|-------
 
 games/apps | Downloads | status
 -------   |-----      |--------
