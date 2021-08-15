@@ -17,5 +17,5 @@ Email | [kenzieleerobertson@gmail.com]
 
 games | Downloads
 ----- | -----
-example|example
+example|examples
 
